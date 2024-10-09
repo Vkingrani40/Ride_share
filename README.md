@@ -1,6 +1,4 @@
-# carpoll
+# Ride Share
 
 A new Flutter project.
-"# carpoll-master" 
-"# carpoll" 
-"# carpoll" 
+"# Ride Share" 
